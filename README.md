@@ -1,2 +1,2 @@
 # javascript-projet
-My first javaScriptProjet on GitHub!!
+My first javaScriptProject on GitHub!!
